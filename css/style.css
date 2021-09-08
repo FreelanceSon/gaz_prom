@@ -1,0 +1,602 @@
+h3 {
+    text-align: center;
+    font-size: 36px;
+}
+
+.header_bg {
+    background-image: url(../img/header_bg.png);
+    height: 740px;
+}
+
+.header_nav {
+    display: inline;
+}
+
+.header_nav img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.header_menu {
+    padding-top: 30px;
+    display: inline;
+    float: right;
+}
+
+.header_menu a {
+    text-align: right;
+}
+
+.header_bg h1 {
+    font-size: 64px;
+    text-align: center;
+    color: #fff;
+    font-family: "Oswald";
+    font-weight: 500px;
+    margin: auto;
+    height: 171px;
+    margin: 112px auto 35px;
+    line-height: 95px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+
+.header_bg p {
+    font-family: "Oswald";
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.god {
+    background-color: #F7F7F7;
+    font-family: "Oswald";
+    font-weight: 500;
+}
+
+.god .dolgoletie {
+    padding: 57px 90px 25px 97px;
+    font-size: 72px;
+    line-height: 107px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 0;
+    color: #F7654A;
+}
+
+.god .let {
+    padding: 0 107px 10px 117px;
+    font-size: 36px;
+    color: #000;
+    line-height: 53px;
+    margin: 0;
+    font-weight: 500;
+}
+
+.god .span {
+    padding: 0 84px 57px 102px;
+    margin: 0;
+    font-weight: 500;
+    line-height: 27px;
+    color: #999999;
+    font-size: 18px;
+}
+
+.fon {
+    background-color: #F7F7F7;
+}
+
+.fl {
+    background-color: #f7f7f7;
+    float: left;
+}
+
+.top_left {
+    position: absolute;
+    top: 122px;
+}
+
+.posa {
+position: relative;
+}
+
+.top_h3 {
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 53px;
+    text-transform: uppercase;
+    margin-top: 250px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.main_img {
+    max-width: 100%;
+    max-height: 380px;
+}
+
+.psevdo {
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+
+.gaz_prom {
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 53px;
+    color: #000;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.lorem_text {
+    font-size: 16px;
+    color: #999999;
+    font-family: "Oswald";
+    line-height: 22px;
+}
+
+.btn_bg {
+    background-color: #F7654A;
+    height: 181px;
+    margin-top: 100px;
+}
+
+.btn_bg a {
+    text-decoration: none;
+}
+
+.btn_h2 {
+    font-size: 48px;
+    color: #fff;
+    padding: 30px 0 10px 0;
+    font-family: "Oswald";
+    font-weight: bold;
+    line-height: 71px;
+    letter-spacing: 0.02em;
+}
+
+.realiz {
+    font-size: 24px;
+    color: #fff;
+    font-family: "Oswald";
+    font-weight: bold;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+}
+
+a img {
+    padding: 15px 0 14px 20px;
+}
+
+.btn_a {
+    float: right;
+    margin-top: 73px;
+    color: #000;
+    background-color: #fff;
+}
+
+a .btn_zapros {
+    font-size: 14px;
+    padding: 13px 30px 14px 12px;
+    font-family: "Oswald";
+    font-weight: bold;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+}
+
+.center_h3 {
+    margin-top: 150px;
+    margin-bottom: 66px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 53px;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+
+.office {
+    width: 416px;
+    height: 284px;
+    background-color: #F7F7F7;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.office img {
+   margin-top: 59px;
+   margin-bottom: 30px;
+}
+
+.office_title a {
+    text-decoration: none;
+    font-size: 21px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+    color: #000;
+    text-align: center;
+}
+
+.bg_reapite {
+    margin-top: 120px;
+    background-image: url(../img/Rectangle\ 3.1.jpg);
+    height: 407px;
+}
+
+.bg_tepeat {
+    background-image: url(../img/Rectangle\ 3.1.jpg);
+    height: 407px;
+}
+
+.h3_what {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 53px;
+}
+
+.spisok_title {
+    margin-bottom: 110px;
+}
+
+.spisok a {
+    text-decoration: none;
+}
+
+.spisok a li {
+    font-size: 24px;
+    margin-bottom: 40px;
+    color: #F7654A;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 35px;
+}
+
+.spisok_p {
+    font-size: 16px;
+    width: 730px;
+    margin-bottom: 40px;
+    font-family: "Open Sans";
+    font-weight: 400;
+    line-height: 22px;
+    color: #999999;
+}
+
+.partner {
+    background-color: #404149;
+    height: 364px;
+}
+
+.partner_title {
+    margin-top: 100px;
+    margin-bottom: 60px;
+    color: #fff;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 53px;
+}
+
+.otzuv_title {
+    text-transform: uppercase;
+    font-size: 36px;
+    padding: 150px 0 64px 0;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 53px;
+}
+
+.container_kavuchki {
+    position: relative;
+}
+
+.kovuchki::before {
+    content: "“";
+    font-size: 96px;
+    width: 100px;
+    position: absolute;
+    left: 30px;
+    top: 0;
+    color: #F7654A;
+}
+
+.kavuchki_title {
+    background-color: #F7F7F7;
+    padding: 79px 30px 38px 30px;
+    font-family: "Open Sans";
+    font-weight: 400;
+    line-height: 21px;
+    color: #999999;
+}
+
+.bottom_title {
+    margin-top: 30px;
+    font-size: 21px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+}
+
+.orange {
+    color: #F7654A;
+}
+
+.otstup_top {
+    margin-top: 150px;
+}
+
+.btn_h2_new {
+    font-size: 48px;
+    color: #fff;
+    padding: 30px 0 0 0;
+    font-family: "Oswald";
+    font-weight: bold;
+    line-height: 71px;
+    letter-spacing: 0.02em;
+}
+
+.realiz_bottom {
+    font-size: 24px;
+    color: #fff;
+    font-family: "Oswald";
+    font-weight: bold;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+}
+
+.img_nav {
+    text-align: center;
+}
+
+.adress {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    color: #999999;
+    margin-top: 20px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.number {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.mail_center {
+    text-align: center;
+}
+.mail_center a {
+    text-decoration: none;
+}
+
+.mail_title {
+    text-transform: uppercase;
+    color: #F7654A;
+    font-size: 24px;
+    font-family: "Oswald";
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.footer_bg {
+    margin-top: 150px;
+    background-color: #404149;
+    height: 82px;
+    color: #fff;
+    font-size: 16px;
+    padding: 30px 0;
+    font-family: "Open Sans";
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.footer-right {
+    display: inline;
+    float: right;
+}
+
+.footer_left {
+    display: inline;
+}
+
+.parnerskaya {
+    display: inline;
+}
+
+.partner_img_fot {
+    padding-right: 85px;
+}
+
+@media screen and (max-width: 992px) {
+    .header_menu {
+        display: inline-block;
+        
+    }
+    .header_nav {
+        display: inline-block;
+    }
+    .header_bg h1 {
+        margin: 0 auto 0;
+        font-size: 44px;
+        line-height: 56px;
+    }
+    .god {
+        display: none;
+    }
+    .header_bg{
+        height: 450px;
+    }
+    .top_h3 {
+        margin-top: 40px;
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+    .top {
+        text-align: center;
+    }
+    .main_img{
+        max-width: 40%;
+    }
+    .psevdo{
+        margin-top: 7px;
+        margin-bottom: 0;
+    }
+    .gaz_prom {
+        margin-bottom: 0;
+    }
+    .btn_bg {
+        margin-top: 50px;
+    }
+    .btn_h2 {
+        font-size: 40px;
+        padding: 30px 0 0 0;
+    }
+    .realiz {
+        font-size: 18px;
+    }
+    .btn_a {
+        margin-top: -92px;
+    }
+    .center_h3 {
+        margin-top: 50px;
+    }
+    .office {
+        width: 316px;
+    }
+    .bg_reapite {
+        margin-top: 50px;
+        height: 250px;
+    }
+    .bg_tepeat {
+        height: 250px;
+    }
+    .h3_what {
+        margin-top: 50px;
+    } 
+    .spisok a li {
+        font-size: 20px;
+        line-height: 15px;
+    }
+    .spisok_title {
+        margin-bottom: 80px;
+    }
+    .partner_title {
+        margin-top: 50px;
+    }
+    .partner_img_fot {
+        display: inline;
+    }
+    .otzuv_title {
+        padding: 50px 0 64px 0;
+    }
+    .btn_h2_new {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .footer_bg {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .header_bg h1 {
+        font-size: 36px;
+    }
+    .spisok_p {
+        width: 280px;
+    }
+    .header_bg {
+        height: 345px;
+    }
+    .btn_h2 {
+        font-size: 28px;
+    }
+    .realiz {
+        font-size: 16px;
+    }
+    .office {
+        margin-left: 95px;
+    }
+    .btn_h2_new {
+        font-size: 27px;
+    }
+    .realiz_bottom {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .office {
+        margin-left: 18px;
+    }
+    .header_bg h1 {
+        font-size: 25px;
+        height: 120px;
+    }
+    .header_bg {
+        height: 300px;
+    }
+    .top_h3 {
+        margin-top: 13px;
+        font-size: 21px;
+    }
+    .btn_h2 {
+        font-size: 25px;
+    }
+    .realiz {
+        font-size: 14px;
+    }
+    .center_h3 {
+        margin-top: 25px;
+        margin-bottom: 38px;
+        font-size: 31px;
+    }
+    .bg_reapite {
+        margin-top: 17px;
+        height: 207px;
+    }
+    .bg_tepeat {
+        height: 207px;
+    }
+    .spisok_p {
+        font-size: 13px;
+    }
+    .partner_title {
+        margin-top: 20px;
+        margin-bottom: 13px;
+    }
+    .partner_img_fot {
+        padding-right: 0;
+    }
+    .partner {
+        height: 310px;
+    }
+    .otzuv_title {
+        padding: 26px 0 41px 0;
+        font-size: 30px;
+    }
+    .footer_left {
+        padding-left: 50px;
+    }
+    .footer-right {
+        padding-right: 64px;
+    }
+}
